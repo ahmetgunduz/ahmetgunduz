@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  I'm Ahmet
 
 <!--
 **ahmetgunduz/ahmetgunduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working for [**@aixplain**](https://aixplain.com) as a Data Scientist
+- 🎓 I have education background from [**Bogazici**](https://www.boun.edu.tr/en), [**TUM**](https://www.tum.de/en/), and [**LMU**](https://www.lmu.de/en/)
+- 📜 I have two Master's degrees in Data Science and Telecommunications Engineering
+- ⚡ Fun fact: I do not like to code, but I love to solve problems with code
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetgunduz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
