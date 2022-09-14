@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working for [**@aixplain**](https://aixplain.com) as a Data Scientist
+- 🔭 I’m currently working [**@aixplain**](https://aixplain.com) as a Data Scientist
 - 🎓 I have education background from [**Bogazici**](https://www.boun.edu.tr/en), [**TUM**](https://www.tum.de/en/), and [**LMU**](https://www.lmu.de/en/)
 - 📜 I have two Master's degrees in Data Science and Telecommunications Engineering
 - ⚡ Fun fact: I do not like to code, but I love to solve problems with code
